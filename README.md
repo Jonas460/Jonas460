@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Olá, Tudo bem? Eu sou o Jonas Araujo 🙂</h1>
   <p align="center">🏬 Atuando como desenvolvedor Full-Stack 
-  <p align="center">📘 Cursando Sistemas de Informação na UFC
+  <p align="center">📘 Bacharel em Sistemas de Informação na UFC
   <p align="center">💻 Estudos focados em React, Redux, TypeScript, Flutter e C#
 </div>
 
